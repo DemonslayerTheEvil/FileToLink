@@ -9,3 +9,6 @@ apscheduler
 requests
 psutil
 pyromod
+shortzy
+jinja2
+humanize
